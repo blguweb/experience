@@ -19,3 +19,9 @@ https://wangjs-jacky.github.io/2020/03/24/%E8%87%AA%E9%80%82%E5%BA%94%E6%BB%A4%E
 
 如何将Unity3D的工程文件安装到quest中
 https://www.cnblogs.com/lsj89/p/16650848.html
+
+
+
+
+cuda11.8对应pytorch 2.0.1 安装
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
