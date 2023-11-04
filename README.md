@@ -1,4 +1,4 @@
-# experience
+![image](https://github.com/blguweb/experience/assets/50010439/015caabc-6449-45d4-9a9a-393f95712866)# experience
 经历&amp;教程&amp;工具&amp;踩坑大法
 
 # ubuntu 系统安装
@@ -25,3 +25,6 @@ https://www.cnblogs.com/lsj89/p/16650848.html
 
 cuda11.8对应pytorch 2.0.1 安装
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+
+《动手深度学习》https://zh.d2l.ai/chapter_introduction/index.html
