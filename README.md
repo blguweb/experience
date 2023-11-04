@@ -1,4 +1,4 @@
-![image](https://github.com/blguweb/experience/assets/50010439/015caabc-6449-45d4-9a9a-393f95712866)# experience
+# experience
 经历&amp;教程&amp;工具&amp;踩坑大法
 
 # ubuntu 系统安装
