@@ -28,3 +28,6 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.
 
 
 《动手深度学习》https://zh.d2l.ai/chapter_introduction/index.html
+
+
+pytorch怎么构建深度网络16 PyTorch 神经网络基础【动手学深度学习v2】https://www.bilibili.com/video/BV1AK4y1P7vs?p=5&vd_source=6def43fd79ee7e245bf15a11717e078a
